@@ -10,7 +10,6 @@
 | :-       | :-    | :-         | :-             | :-         |
 | GET      | /user | user.index | UserController | index      |
 | GET      | /me   | me.show    | UserController | showMe     |
-| PUT      | /me   | me.update  | UserController | updateMe   |
 
 ## 条件
 - UserControllerは新規に作成する
