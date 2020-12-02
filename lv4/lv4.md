@@ -18,7 +18,7 @@
 
 | メソッド | URI | 名前      | コントローラー | アクション |
 | :-       | :-  | :-        | :-             | :-         |
-| PUT      | /me | me.update | UserController | updateMe   |
+| POST      | /me | me.update | UserController | updateMe   |
 
 ## 制限時間
 - 3時間
