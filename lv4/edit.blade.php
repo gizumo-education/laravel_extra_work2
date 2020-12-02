@@ -3,7 +3,6 @@
 <h1 class="page-header">マイページ</h1>
 <form action="/me" method="post">
   @csrf
-  @method('PUT')
   <div class="form-group">
     <label>名前</label>
     <input type="text" name="name"class="form-control" value="" required maxlength="255"/>
